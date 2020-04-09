@@ -3,6 +3,6 @@ class Backer
 
   def initialize(name)
     @name = name
-    @backend_projects = Array.new
+    @backed_projects = Array.new
   end
 end
